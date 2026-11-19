@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="345" viewBox="0 0 1100 345" role="img" aria-labelledby="title desc">
+  <title id="title">Growth-Stack — pstack applied to growth marketing</title>
+  <desc id="desc">Tre fogli sovrapposti rappresentano le fonti, il documento composto e la verifica con la rubrica.</desc>
+  <defs>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#54786e"/></pattern>
+  </defs>
+  <rect width="1100" height="345" rx="18" fill="#102c27"/>
+  <path d="M630 0h452q18 0 18 18v309q0 18-18 18H630z" fill="url(#dots)"/>
+  <g font-family="Helvetica Neue,Arial,sans-serif">
+    <text x="52" y="78" fill="#bbf58c" font-family="monospace" font-size="20">/growth</text>
+    <text x="48" y="174" fill="#faf8ec" font-size="75" font-weight="700" letter-spacing="-4">Growth-Stack</text>
+    <text x="52" y="225" fill="#e0e8dc" font-size="26">pstack applied to growth marketing</text>
+  </g>
+  <g stroke="#102c27" stroke-width="4" stroke-linejoin="round">
+    <path d="m690 207 167-77 178 76-168 80z" fill="#72a594"/>
+    <path d="m690 174 167-77 178 76-168 80z" fill="#d1e6cc"/>
+    <path d="m690 141 167-77 178 76-168 80z" fill="#bbf58c"/>
+  </g>
+  <g fill="none" stroke="#28483b" stroke-width="5" stroke-linecap="round">
+    <path d="m756 141 69 30m-45-42 100 43m-75-55 73 31"/>
+    <path d="m880 116 10 12 27-14"/>
+  </g>
+</svg>
