@@ -1,0 +1,14 @@
+{
+  "name": "growth-local",
+  "owner": {
+    "name": "Vlad Vrinceanu"
+  },
+  "plugins": [
+    {
+      "name": "growth",
+      "source": "./",
+      "description": "Un comando, /growth, che smista ogni domanda di marketing e business verso le knowledge base giuste.",
+      "version": "0.3.0"
+    }
+  ]
+}

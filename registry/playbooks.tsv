@@ -1,0 +1,64 @@
+id	area	name	status
+A1	A	Selezione mercato e idea	todo
+A2	A	Nicchia personale	todo
+A3	A	Ricerca clienti: interviste e sondaggi	valido
+A4	A	Jobs to Be Done	todo
+A5	A	Concorrenti e differenziazione	todo
+B1	B	Positioning	todo
+B2	B	Messaging e sales story	todo
+B3	B	Offerta	valido
+B4	B	Prezzo e margini	todo
+B5	B	Servizio produttizzato	todo
+B6	B	Prodotto digitale e pre-vendita (build, community)	todo
+C1	C	Piano canali e vincolo	todo
+C2	C	Lead magnet e cattura	todo
+C3	C	Outreach caldo e referral	todo
+C4	C	Outreach freddo	todo
+C5	C	Campagna Meta	valido
+C6	C	Creativita ads	todo
+C7	C	Partner: affiliati, agenzie, influencer e giveaway	todo
+D1	D	Landing page	valido
+D2	D	Store e-commerce: setup, pagina prodotto, CRO	todo
+D3	D	VSL	todo
+D4	D	Headline e hook	todo
+D5	D	Prove e testimonianze	todo
+D6	D	Revisione copy	todo
+E1	E	Vendita: script, chiusura e pipeline	valido
+F1	F	Strategia, setup e segmentazione email	todo
+F2	F	Flussi automatici	valido
+F3	F	Campagne e promo email	todo
+F4	F	Newsletter	todo
+G1	G	Audit tecnico	todo
+G2	G	Piano contenuti e keyword	valido
+G3	G	Pagina o articolo SEO-GEO	todo
+G4	G	Autorita	todo
+G5	G	Misura e diagnosi traffico	todo
+G6	G	Aggiornamento contenuti	todo
+H1	H	Profilo LinkedIn	todo
+H2	H	Strategia contenuti social	todo
+H3	H	Storytelling personale	todo
+H4	H	Strategia canale YouTube	todo
+H5	H	Packaging video	todo
+H6	H	Script video	todo
+H7	H	Produzione video	todo
+H8	H	Riuso e distribuzione	todo
+H9	H	Monetizzazione creator	todo
+H10	H	Visual AI	todo
+H11	H	Post e batch settimanale	valido
+H12	H	Crescita audience e networking	todo
+I1	I	Brand foundation	todo
+I2	I	Fornitori ed economia unitaria (DTC fisico)	todo
+I3	I	Lancio (pre-vendita, waitlist, fasi, drop)	todo
+I4	I	Retention e churn	todo
+I5	I	Diagnosi di stadio e priorita	valido
+I6	I	Espansione	todo
+I7	I	Sistema operativo	todo
+I8	I	Assunzioni	todo
+P1	P	Consulto	provato
+P2	P	Teardown	provato
+P3	P	Diagnosi	bozza
+P4	P	Esperimento	bozza
+P5	P	Programma	bozza
+P6	P	Brief di progetto	bozza
+P7	P	Raccolta prove	bozza
+DL	DL	Data layer	todo

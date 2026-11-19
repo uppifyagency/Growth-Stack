@@ -1,0 +1,51 @@
+n	unit_id	book	kind	claim	cited_file
+1	B-040	advanced-email-marketing	step	Email #2 plain-text from founder/CEO, next day in business hours.	skills/advanced-email-marketing/chapters/ch09-framework-automation.md
+2	B-051	advanced-email-marketing	step	Consider server-side GA4 tracking.	skills/advanced-email-marketing/chapters/ch08-tracciamento-dati.md
+3	D-040	ai-visual-prompting	step	Require explicit `--no` constraints at the end.	skills/ai-visual-prompting/chapters/ch04-gpt-as-prompt-director.md
+4	D-042	ai-visual-prompting	step	Document the prompts that worked for reuse.	skills/ai-visual-prompting/chapters/ch03-parameters-iteration-troubleshooting.md
+5	D-019	ali-abdaal-youtuber	step	Set the commitment: 20-40-50 videos before judging.	skills/ali-abdaal-youtuber/chapters/ch09-office-hours-qa.md
+6	D-028	ali-abdaal-youtuber	step	Commit to one video a week as the non-negotiable.	skills/ali-abdaal-youtuber/chapters/ch01-youtube-foundations.md
+7	E-029	butcher-productize	step	Check reps (iterations + proof of work); if not, keep repping and publishing.	skills/butcher-productize/cheatsheet.md, skills/butcher-productize/chapters/ch02-three-steps-to-productizing.md
+8	E-027	butcher-productize	step	Pick the single highest-leverage one; niche to it and drop the rest. (Uniqueness Audit)	skills/butcher-productize/patterns.md, skills/butcher-productize/chapters/ch01-design-intern-to-1m.md
+9	A-022	christensen-jobs	step	Look for negative jobs ("I don't want to ___").	skills/christensen-jobs/chapters/ch04-job-hunting.md
+10	A-028	christensen-jobs	criterion	Each growth initiative has a surface-growth verdict.	skills/christensen-jobs/chapters/ch08-keeping-your-eye-on-the-job.md
+11	C-066	dataforseo	criterion	bids and estimates labelled as estimates.	skills/dataforseo/references/03-keywords-data-and-labs.md
+12	C-058	dataforseo	criterion	Needed flags set at `task_post` (downstream endpoints depend on them).	skills/dataforseo/references/05-onpage-and-content-analysis.md
+13	C-045	doing-content-right	step	Build links toward DA ~10 (C7); watch impressions in GSC.	skills/doing-content-right/chapters/ch04-seo.md
+14	C-046	doing-content-right	step	Re-target keywords on the informational ones.	skills/doing-content-right/patterns.md
+15	C-016	drew-sucks-framework	step	Layer 3, **Customer Results**: testimonials and case studies (strongest).	skills/drew-sucks-framework/chapters/ch04-undeniable.md
+16	C-017	drew-sucks-framework	step	Write an **open loop** to close later.	skills/drew-sucks-framework/chapters/ch06-curious.md
+17	A-019	dunford-positioning	step	Define the problem.	skills/dunford-positioning/chapters/ch14-putting-positioning-into-play.md
+18	A-015	dunford-positioning	step	For each value theme ask "who cares and why?".	skills/dunford-positioning/chapters/ch10-step7-who-cares-a-lot.md
+19	B-033	fazio-vsl	criterion	Interest set in the first 3 seconds (no slow intro).	skills/fazio-vsl/chapters/ch05-filming-vsls.md
+20	B-036	fazio-vsl	step	Install Pixel in page head.	skills/fazio-vsl/chapters/ch07-retargeting-live-chat.md
+21	A-031	fitzpatrick-mom-test	step	Use the good-question repertoire: why bother, implications, what else tried, how dealing now, where money comes from.	skills/fitzpatrick-mom-test/patterns.md, skills/fitzpatrick-mom-test/cheatsheet.md
+22	A-031	fitzpatrick-mom-test	criterion	Recovery lines exist for compliments, fluff and feature requests.	skills/fitzpatrick-mom-test/chapters/ch02-avoiding-bad-data.md
+23	E-017	gray-founder-os	criterion	Names one category (existing or invented) to lead.	skills/gray-founder-os/chapters/ch02-operating-system-calling.md
+24	E-023	gray-founder-os	step	Mine verbatim benefit language for landing-page and email copy.	skills/gray-founder-os/chapters/ch05-scale-business.md
+25	E-055	gretta-start-scale	criterion	All three numbers present.	skills/gretta-start-scale/chapters/ch09-launch-operations.md
+26	E-043	gretta-start-scale	step	Compute gross margin = (Revenue − COGS) ÷ Revenue; target 30–60%, never < 30%.	skills/gretta-start-scale/chapters/ch05-making-product-profitable.md
+27	A-036	gtm-internet-pipes	criterion	Every claim has 2 independent sources (G3).	skills/gtm-internet-pipes/runbook.md
+28	A-043	gtm-internet-pipes	criterion	Source cited.	skills/gtm-internet-pipes/chapters/ch14-visualization-station.md
+29	B-002	hormozi-leads	step	Reply with A-C-A (Acknowledge, Compliment, Ask) for 3-4 exchanges.	skills/hormozi-leads/chapters/ch05-warm-outreach.md
+30	B-006	hormozi-leads	step	Capture page matching the ad look and language.	skills/hormozi-leads/chapters/ch09-run-paid-ads-1.md
+31	A-005	hormozi-offers	step	Add scarcity or urgency to the bonuses.	skills/hormozi-offers/chapters/ch11-enhance-bonuses.md
+32	A-002	hormozi-offers	step	Name all four drivers explicitly: Dream Outcome, Perceived Likelihood, Time Delay, Effort & Sacrifice.	skills/hormozi-offers/chapters/ch05-value-equation.md
+33	E-002	hormozi-scaling	step	Promote via the Core Four, starting with warm outreach to everyone who already knows you.	skills/hormozi-scaling/chapters/ch03-stage0-improvise.md
+34	E-010	hormozi-scaling	step	Raise lead volume with better free content on the existing channel (not a second channel).	skills/hormozi-scaling/chapters/ch07-stage4-prioritize.md
+35	B-021	instagram-performance-marketing	step	Cap frequency at 3-5/week.	skills/instagram-performance-marketing/chapters/ch13-retargeting-audiences.md
+36	B-014	instagram-performance-marketing	criterion	Audience Network excluded.	skills/instagram-performance-marketing/chapters/ch11-ad-settings.md
+37	B-027	liguori-persuasystem	criterion	Each answer is short (a few sentences).	skills/liguori-persuasystem/chapters/ch09-7-fasi-vendita.md
+38	B-030	liguori-persuasystem	step	Indirect opener (banal remark or curious question); move to product only if they smile/respond.	skills/liguori-persuasystem/chapters/ch04-presentarsi.md
+39	C-004	neville-copywriting	step	Size the page to buyer knowledge and price (**Sugarman's rule**): known/cheap → buy button; unfamiliar/expensive → full sequence.	skills/neville-copywriting/chapters/ch05-sales-pages-ecommerce.md, skills/neville-copywriting/patterns.md
+40	C-008	neville-copywriting	step	Decide on an **ethical bribe** (yes for boring/B2B, skip for an already-interesting blog).	skills/neville-copywriting/chapters/ch07-email-writing-autoresponders.md
+41	D-032	oliur-video-creator	step	Edit the A-roll first, then list the shots it needs.	skills/oliur-video-creator/chapters/ch03-camera-shooting.md
+42	D-031	oliur-video-creator	criterion	Natural light is excluded (blinds and door).	skills/oliur-video-creator/chapters/ch03-camera-shooting.md
+43	C-034	seo-2026-sota	step	Allocate by model: ChatGPT → Wikipedia + G2/Capterra; Claude → technical docs, GitHub, papers; Gemini/AIO → YouTube + schema + recency; Perplexity → Reddit.	skills/seo-2026-sota/chapters/ch05-ottimizzare-per-modello.md, skills/seo-2026-sota/cheatsheet.md
+44	C-036	seo-2026-sota	criterion	Every matrix row has source, destination, anchor, context sentence.	skills/seo-2026-sota/chapters/ch06-geo-topical-authority-blackhat-8020.md
+45	C-020	shleyner-landing-pages	criterion	CTA states an incentive.	skills/shleyner-landing-pages/chapters/ch02-clarity-hero-congruence.md
+46	C-019	shleyner-landing-pages	criterion	If replacing a control: looks/reads nothing like it.	skills/shleyner-landing-pages/chapters/ch01-foundations-cdca.md, skills/shleyner-landing-pages/chapters/ch07-testing.md
+47	D-017	welsh-idea-audience	criterion	Feedback checkpoints are scheduled before completion.	skills/welsh-idea-audience/chapters/ch12-fiti-move-fast-cheap.md
+48	D-015	welsh-idea-audience	step	Choose the level: L1 low cost and learn, L2 industry average, L3 high-price micro-niche.	skills/welsh-idea-audience/chapters/ch11-mvp-service-business.md
+49	D-003	welsh-linkedin	criterion	The hook sits on the last visible line (line 5 for text, ~line 3 for image/video).	skills/welsh-linkedin/chapters/ch05-creating-content.md
+50	D-007	welsh-linkedin	criterion	The backlog is a single folder that the weekly batch draws from.	skills/welsh-linkedin/chapters/ch06-posting-algorithm-consistency.md

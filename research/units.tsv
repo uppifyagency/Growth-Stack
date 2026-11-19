@@ -1,0 +1,265 @@
+unit_id	book	unit	depth	owner	also	kind	needs_data
+A-001	hormozi-offers	Market selection scorecard (Starving Crowd)	full	A1	B3	plan	yes
+A-002	hormozi-offers	Value Equation audit	full	B3	P2	audit	no
+A-003	hormozi-offers	Grand Slam Offer core (Problems, Solutions, Delivery Vehicles, Trim & Stack)	full	B3		build	no
+A-004	hormozi-offers	Premium price decision	partial	B4	B3	plan	yes
+A-005	hormozi-offers	Bonus stack	full	B3		build	no
+A-006	hormozi-offers	Guarantee	full	B3	D5	build	no
+A-007	hormozi-offers	Scarcity and urgency plan	full	B3	I3	build	no
+A-008	hormozi-offers	Offer name (MAGIC) and test slate	full	B3	D4	build	yes
+A-009	hormozi-offers	Offer fatigue refresh plan	full	B3	C5,C6,P3	diagnose	yes
+A-010	hormozi-offers	Grand Slam Offer document (end-to-end assembly)	full	B3		build	no
+A-011	dunford-positioning	Best-fit customer list (Step 1)	partial	B1	A3	plan	yes
+A-012	dunford-positioning	Positioning workshop plan (Steps 2 and 3)	full	B1		plan	no
+A-013	dunford-positioning	Competitive alternatives list (Step 4)	full	B1	A5	build	no
+A-014	dunford-positioning	Unique attributes and value themes (Steps 5 and 6)	full	B1		build	no
+A-015	dunford-positioning	Target segment definition (Step 7, who cares a lot)	full	B1	A3	plan	yes
+A-016	dunford-positioning	Market category and positioning style decision (Step 8)	full	B1		plan	yes
+A-017	dunford-positioning	Trend layer check (Step 9)	partial	B1	A1	plan	yes
+A-018	dunford-positioning	Positioning canvas and positioning document (Step 10)	full	B1		build	no
+A-019	dunford-positioning	Sales story	full	B2	E1	build	no
+A-020	dunford-positioning	Messaging master document	partial	B2		build	no
+A-021	dunford-positioning	Positioning re-check	partial	B1	P2	audit	yes
+A-022	christensen-jobs	Job opportunity list (job hunting)	full	A4	A1	plan	no
+A-023	christensen-jobs	Job statement	full	A4		build	no
+A-024	christensen-jobs	Switch storyboard (struggle timeline)	partial	A4	A3	build	no
+A-025	christensen-jobs	Forces of Progress map	full	A4	B3	diagnose	no
+A-026	christensen-jobs	Job spec and product résumé	full	A4	B3	build	no
+A-027	christensen-jobs	Big Hire / Little Hire audit	partial	I4	A4,P3	diagnose	no
+A-028	christensen-jobs	Job-progress metrics audit	partial	A4	I7,P2	audit	no
+A-029	fitzpatrick-mom-test	Customer segment (who-where pair)	full	A3		plan	no
+A-030	fitzpatrick-mom-test	Learning plan (big 3 questions and risk triage)	full	A3		plan	yes
+A-031	fitzpatrick-mom-test	Customer interview script	full	A3		build	no
+A-032	fitzpatrick-mom-test	Meeting request message (Vision/Framing/Weakness/Pedestal/Ask)	full	A3	C4	build	no
+A-033	fitzpatrick-mom-test	Commitment and next-step plan	full	A3	E1	plan	no
+A-034	fitzpatrick-mom-test	Conversation notes and team review	full	A3	A4	audit	no
+A-035	gtm-internet-pipes	Idea list (Generation)	full	A1		data	yes
+A-036	gtm-internet-pipes	Demand validation report	full	A1		data	yes
+A-037	gtm-internet-pipes	Competitor evaluation matrix (3 x 8)	full	A5		data	yes
+A-038	gtm-internet-pipes	Review gap list (2 to 3 star mine)	full	A5		data	yes
+A-039	gtm-internet-pipes	Differentiation brief (axis and audience lingo)	full	A5	B1	plan	yes
+A-040	gtm-internet-pipes	Audience and community research (tool-chain)	full	A1	A3,A5	data	yes
+A-041	gtm-internet-pipes	Trend timing report (seasonality and geo)	full	A1	B3,I3	data	yes
+A-042	gtm-internet-pipes	GTM investigation report with coverage ledger	full	A1	A5	data	yes
+A-043	gtm-internet-pipes	Data visualization of a finding	partial	NONE	A1,A5	build	yes
+B-001	hormozi-leads	H1. Lead magnet	full	C2	B6	build	no
+B-002	hormozi-leads	H2. Warm outreach campaign (script pack)	full	C3	B5	build	no
+B-003	hormozi-leads	H3. Content piece (Content Unit)	full	H2		build	no
+B-004	hormozi-leads	H4. Content ask plan (Give:Ask calendar)	partial	H2	C2	plan	yes
+B-005	hormozi-leads	H5. Cold outreach campaign	full	C4		build	yes
+B-006	hormozi-leads	H6. Paid ad (Call-Out + Value + CTA) with capture page	full	C6	C5,D1	build	yes
+B-007	hormozi-leads	H7. Paid ads budget and unit-economics plan (CFA)	full	C5	C1,B4	plan	yes
+B-008	hormozi-leads	H8. Constraint test plan (More / Better / New)	full	C1	P3,P4	diagnose	yes
+B-009	hormozi-leads	H9. Referral program	full	C3	I4	build	yes
+B-010	hormozi-leads	H10. Affiliate program and launch kit	full	C7		build	yes
+B-011	hormozi-leads	H11. Lead-getter hiring and 3Ds training checklist	full	I8	C1	build	no
+B-012	hormozi-leads	H12. Agency selection and engagement brief	full	C7		plan	no
+B-013	hormozi-leads	H13. One Page Advertising Checklist (daily plan + roadmap level)	full	C1		ops	no
+B-014	instagram-performance-marketing	I1. Meta conversion campaign build sheet (sterile launch)	full	C5		build	yes
+B-015	instagram-performance-marketing	I2. Audience and GEO targeting plan (algorithm data stack)	full	C5		build	yes
+B-016	instagram-performance-marketing	I3. Video ad creative brief (AI/UGC)	full	C6	H10	build	yes
+B-017	instagram-performance-marketing	I4. Ad copy set (primary text, headline, description, CTA)	full	C6		build	yes
+B-018	instagram-performance-marketing	I5. Landing page audit / spec for ad traffic	partial	D1	C5,P2	audit	yes
+B-019	instagram-performance-marketing	I6. Post-click lead nurture automation map	partial	F2	C5	build	yes
+B-020	instagram-performance-marketing	I7. Launch budget and learning-phase plan (Accelerated Ad Spend)	full	C5		plan	yes
+B-021	instagram-performance-marketing	I8. Retargeting campaign plan	full	C5		build	yes
+B-022	instagram-performance-marketing	I9. Ad A/B test plan	full	C5		plan	yes
+B-023	instagram-performance-marketing	I10. Campaign diagnosis and optimization report	full	C5	P3	diagnose	yes
+B-024	liguori-persuasystem	L1. Sales meeting script (Le 7 fasi di vendita)	full	E1		build	no
+B-025	liguori-persuasystem	L2. Needs-analysis / calibration question sheet (Calibrazione strategica)	full	E1	A3	build	no
+B-026	liguori-persuasystem	L3. Persuasive pitch (flusso persuasivo in 9 passaggi)	full	E1	B2	build	no
+B-027	liguori-persuasystem	L4. Objection-handling sheet	full	E1		build	no
+B-028	liguori-persuasystem	L5. Closing script (Chiusura in 5 momenti)	full	E1		build	no
+B-029	liguori-persuasystem	L6. Persuasive language rewrite (linguaggio strategico)	partial	D6	E1	build	no
+B-030	liguori-persuasystem	L7. Cold in-person approach opener	partial	E1	C4	build	no
+B-031	fazio-vsl	F1. One-Secret VSL script	full	D3		build	no
+B-032	fazio-vsl	F2. Three-Secrets (three-pain-point) VSL script	full	D3		build	no
+B-033	fazio-vsl	F3. VSL recording and production plan	full	D3	H7	plan	yes
+B-034	fazio-vsl	F4. VSL landing page (single scroll)	full	D1	D3	build	yes
+B-035	fazio-vsl	F5. Personalized cold email + Big Win follow-up sequence	full	C4		build	yes
+B-036	fazio-vsl	F6. Live chat and retargeting setup for the VSL page	full	C5	D3	build	yes
+B-037	advanced-email-marketing	E1. Email marketing strategy plan (3 pilastri, OKR)	full	F1		plan	yes
+B-038	advanced-email-marketing	E2. Automation workflow spec (grammatica del workflow)	full	F2		plan	yes
+B-039	advanced-email-marketing	E3. Welcome series (onboarding)	full	F2		build	yes
+B-040	advanced-email-marketing	E4. Lead-gen drip campaign (nurturing)	full	F2	E1	build	yes
+B-041	advanced-email-marketing	E5. Cart and browse abandonment flows	full	F2		build	yes
+B-042	advanced-email-marketing	E6. Post-purchase and replenishment flow	full	F2	I4	build	yes
+B-043	advanced-email-marketing	E7. Winback and sunset flow	full	F2	I4	build	yes
+B-044	advanced-email-marketing	E8. Date flow (birthday with Bait & Hook)	full	F2		build	yes
+B-045	advanced-email-marketing	E9. Lead scoring model (CRM)	full	F1	E2	build	yes
+B-046	advanced-email-marketing	E10. RFM segmentation map (e-commerce)	full	F1		build	yes
+B-047	advanced-email-marketing	E11. Single campaign email (email perfetta)	full	F3		build	yes
+B-048	advanced-email-marketing	E12. Platform setup, deliverability and GDPR checklist	full	F1		ops	yes
+B-049	advanced-email-marketing	E13. Newsletter program	partial	F4		plan	yes
+B-050	advanced-email-marketing	E14. List acquisition plan (forms and pop-ups)	partial	C2	F1	build	yes
+B-051	advanced-email-marketing	E15. Tracking setup plan	partial	F1	G5	ops	yes
+B-052	advanced-email-marketing	E16. Email-to-ads audience sync (remarketing, lookalike, exclusion)	partial	C5	F1	build	yes
+C-001	neville-copywriting	N1. Headline and subject-line set	full	D4	F3	build	yes
+C-002	neville-copywriting	N2. Cold sales email	full	C4		build	yes
+C-003	neville-copywriting	N3. Single sales email or short letter (AIDA)	full	F3	D6	build	no
+C-004	neville-copywriting	N4. Long-form sales page (Modified AIDA + T)	full	D1		build	no
+C-005	neville-copywriting	N5. eCommerce product page (Amazon field set)	full	D2		build	no
+C-006	neville-copywriting	N6. Page teardown / conversion review	full	D1	D2,P2	audit	yes
+C-007	neville-copywriting	N7. Google search ad ("super ad")	full	C6		build	yes
+C-008	neville-copywriting	N8. Autoresponder (follow-up) sequence	full	F2		build	yes
+C-009	neville-copywriting	N9. Constant Launch (evergreen launch sequence)	full	F2	F3	build	yes
+C-010	neville-copywriting	N10. 3-email promotion sequence (Black Friday formula)	full	F3	I3	build	no
+C-011	neville-copywriting	N11. Blog post (Research → Write → Promote)	full	G3	H8	build	yes
+C-012	neville-copywriting	N12. Content revamp of an underperforming post (4-Step Content Revamp)	full	G6	D4	build	yes
+C-013	neville-copywriting	N13. First-gig service offer (getting clients)	full	B5	C4	build	no
+C-014	drew-sucks-framework	D1. Piece brief (Rule of One)	full	D6		plan	no
+C-015	drew-sucks-framework	D2. SUCKS edit pass (pre-publish audit and rewrite)	full	D6	P2	audit	yes
+C-016	drew-sucks-framework	D3. Proof section (Persuasion Proof Stack)	partial	D5		build	no
+C-017	drew-sucks-framework	D4. Hook and opening set (4 Curiosity Triggers)	partial	D4		build	no
+C-018	drew-sucks-framework	D5. Unique mechanism (named framework)	partial	B2	B3,D1	build	no
+C-019	shleyner-landing-pages	L1. Transformational landing page (CDCA)	full	D1		build	yes
+C-020	shleyner-landing-pages	L2. Hero divider (above the fold)	full	D1	D4	build	no
+C-021	shleyner-landing-pages	L3. Fascination wall	full	D4	D1	build	no
+C-022	shleyner-landing-pages	L4. Credibility section (confidence signals and testimonials)	full	D5	D1	build	yes
+C-023	shleyner-landing-pages	L5. Testimonial collection campaign	full	D5		build	yes
+C-024	shleyner-landing-pages	L6. "Why now?" action block	full	D1	B3	build	yes
+C-025	shleyner-landing-pages	L7. Prospect interview → "person" and hook	partial	A3	D1,D6	build	no
+C-026	shleyner-landing-pages	L8. Congruent ad from the Hero	full	C6		build	no
+C-027	shleyner-landing-pages	L9. Landing-page test plan (big test, then small tests)	full	D1		plan	yes
+C-028	seo-2026-sota	S1. GEO content plan (prompt-targets and BoFu topics)	full	G2		plan	yes
+C-029	seo-2026-sota	S2. BoFu GEO page (listicle, X vs Y, choice guide, alternatives)	full	G3		build	yes
+C-030	seo-2026-sota	S3. Technical SEO audit	full	G1	P2	audit	yes
+C-031	seo-2026-sota	S4. Core Web Vitals remediation plan	full	G1	P3	diagnose	yes
+C-032	seo-2026-sota	S5. Structured data pack	full	G1	G3	build	yes
+C-033	seo-2026-sota	S6. E-E-A-T trust package (author and evidence)	full	G4	G3	build	no
+C-034	seo-2026-sota	S7. Off-site GEO distribution plan	full	G4	H8	plan	yes
+C-035	seo-2026-sota	S8. YouTube GEO video package	full	G4	H5,H6	build	yes
+C-036	seo-2026-sota	S9. Topic cluster and internal-link matrix	full	G2		plan	yes
+C-037	seo-2026-sota	S10. Organic traffic drop diagnosis	full	G5	P3	diagnose	yes
+C-038	seo-2026-sota	S11. SEO measurement and weekly report (GSC + GA4 + Trends)	full	G5		ops	yes
+C-039	seo-2026-sota	S12. GEO weekly citation audit (iteration cycle)	full	G5	G6	ops	yes
+C-040	seo-2026-sota	S13. Title and meta description set	full	G3	D4	build	yes
+C-041	seo-2026-sota	S14. Link-earning / digital PR plan	partial	G4		plan	yes
+C-042	doing-content-right	C1. Positioning one-liner and niche validation (Personal Monopoly)	full	A2	B1	plan	yes
+C-043	doing-content-right	C2. Publication charter (Unwritten Contract and stack)	full	F4		plan	no
+C-044	doing-content-right	C3. Distribution channel plan	full	H8	C1	plan	yes
+C-045	doing-content-right	C4. SEO article keyword brief	full	G2	G3	plan	yes
+C-046	doing-content-right	C5. Content re-optimization plan	partial	G6		plan	yes
+C-047	doing-content-right	C6. Fresh-domain link-building plan ("Second Chances")	partial	G4		plan	yes
+C-048	doing-content-right	C7. Email capture system (modals, lead magnets, referrals)	partial	C2	F4	build	yes
+C-049	doing-content-right	C8. Monetization plan	full	H9	F4	plan	no
+C-050	doing-content-right	C9. Sponsorship rate card and Promote page	full	F4	H9	build	yes
+C-051	doing-content-right	C10. Digital product pre-sell and price ladder	full	B6	B4	plan	no
+C-052	dataforseo	DF1. Keyword shortlist (volume, difficulty, intent, CPC, trend)	full	G2	A1,G6	data	yes
+C-053	dataforseo	DF2. SERP snapshot (with AI Overview and People Also Ask)	full	G2	G3,C6	data	yes
+C-054	dataforseo	DF3. Competitor discovery and keyword gap	full	G2	A5	data	yes
+C-055	dataforseo	DF4. Domain visibility and traffic report	full	G5	A5	data	yes
+C-056	dataforseo	DF5. Backlink profile	full	G4		data	yes
+C-057	dataforseo	DF6. Link-gap prospect list	full	G4		data	yes
+C-058	dataforseo	DF7. On-page and technical audit dataset	full	G1		data	yes
+C-059	dataforseo	DF8. AI-visibility check	full	G5	G2,G4	data	yes
+C-060	dataforseo	DF9. Demand and seasonality report	full	A1	A2,G5	data	yes
+C-061	dataforseo	DF10. Brand citation and sentiment report	full	G4	A5	data	yes
+C-062	dataforseo	DF11. YouTube SERP and video research	full	H4	G4,H5	data	yes
+C-063	dataforseo	DF12. Review and reputation dataset	partial	A5	G4	data	yes
+C-064	dataforseo	DF13. Marketplace demand snapshot (Amazon / Google Shopping)	full	A1	D2	data	yes
+C-065	dataforseo	DF14. Local business list / market sizing	full	C4	A1	data	yes
+C-066	dataforseo	DF15. Paid-search keyword economics	full	C6	C1	data	yes
+C-067	dataforseo	DF16. Tech stack and WHOIS lookup	full	A5	G1	data	yes
+D-001	welsh-linkedin	1. Niche and character brief	full	A2	H1	plan	no
+D-002	welsh-linkedin	2. LinkedIn profile as sales page	partial	H1		build	yes
+D-003	welsh-linkedin	3. Story post	full	H2	H3	build	no
+D-004	welsh-linkedin	4. Weekly content batch	full	H2		ops	yes
+D-005	welsh-linkedin	5. Industry-titan connection plan	full	H2	C3	plan	yes
+D-006	welsh-linkedin	6. Daily tribe-building routine	full	H2		ops	yes
+D-007	welsh-linkedin	7. Idea capture backlog	full	H2		ops	yes
+D-008	welsh-idea-audience	1. Niche of One idea sheet	full	A2	B5	plan	no
+D-009	welsh-idea-audience	2. Background + Transformation story	full	H3	H1	build	no
+D-010	welsh-idea-audience	3. Moneyball audience plan	full	H2	C1	plan	yes
+D-011	welsh-idea-audience	4. Profile Funnel rewrite	full	H1		build	no
+D-012	welsh-idea-audience	5. Content Matrix + post batch	full	H2		build	no
+D-013	welsh-idea-audience	6. Email capture landing page	full	C2	D1	build	yes
+D-014	welsh-idea-audience	7. Content Web distribution map	full	H8		plan	no
+D-015	welsh-idea-audience	8. MVP service business setup	partial	B5		build	yes
+D-016	welsh-idea-audience	9. F.I.T.I rate-raise plan	full	B5	B4,D5	plan	yes
+D-017	welsh-idea-audience	10. Digital product MVP build	full	B6		build	yes
+D-018	welsh-idea-audience	11. 14-day pre-sell launch plan	full	B6	I3,F3	plan	yes
+D-019	ali-abdaal-youtuber	1. Channel niche + ideal viewer brief	full	H4	A2	plan	no
+D-020	ali-abdaal-youtuber	2. Packaging set (titles + thumbnail brief)	full	H5		build	yes
+D-021	ali-abdaal-youtuber	3. Video script (HIVES + Tell-Title-Tension)	full	H6		build	no
+D-022	ali-abdaal-youtuber	4. Personal story segment	full	H6	H3	build	no
+D-023	ali-abdaal-youtuber	5. Channel branding audit	full	H4	P2	audit	no
+D-024	ali-abdaal-youtuber	6. Repurposing plan	full	H8		plan	yes
+D-025	ali-abdaal-youtuber	7. Editor hiring brief	full	I8	H7	build	yes
+D-026	ali-abdaal-youtuber	8. Monetisation plan	full	H9		plan	yes
+D-027	ali-abdaal-youtuber	9. Gear and setup plan	full	H7		plan	yes
+D-028	ali-abdaal-youtuber	10. Publishing cadence system	full	H4		ops	yes
+D-029	ali-abdaal-youtuber	11. Community design brief	partial	B6	H9	build	no
+D-030	oliur-video-creator	1. Video script in read-to-camera format	full	H6		build	yes
+D-031	oliur-video-creator	2. A-roll shoot setup	full	H7		build	no
+D-032	oliur-video-creator	3. B-roll shot list	full	H7		build	no
+D-033	oliur-video-creator	4. Edit and grade checklist	full	H7		ops	yes
+D-034	oliur-video-creator	5. Packaging (title + thumbnail)	partial	H5		build	no
+D-035	oliur-video-creator	6. Gear kit recommendation	full	H7		plan	yes
+D-036	oliur-video-creator	7. Sponsorship readiness + rate card	full	H9		plan	yes
+D-037	ai-visual-prompting	1. Photoreal still prompt	full	H10		build	yes
+D-038	ai-visual-prompting	2. Master Prompt + variation series	full	H10	I1	build	yes
+D-039	ai-visual-prompting	3. Product ad / flat-lay prompt	full	H10	C6	build	yes
+D-040	ai-visual-prompting	4. GPT prompt-director system prompt	full	H10		build	yes
+D-041	ai-visual-prompting	5. Sora companion / video prompt set	full	H10		build	yes
+D-042	ai-visual-prompting	6. Iteration and troubleshooting log	full	H10	P4	diagnose	yes
+E-001	hormozi-scaling	HS1. Stage and constraint diagnosis	full	I5	P3	diagnose	no
+E-002	hormozi-scaling	HS2. Free offer and first-proof plan (Stage 0)	full	B5	C3,D5	plan	no
+E-003	hormozi-scaling	HS3. First paid offer and price ladder (Stage 1)	full	B3	B4,E1	build	yes
+E-004	hormozi-scaling	HS4. Rule of 100 daily advertising plan (Stage 2)	partial	C1		ops	no
+E-005	hormozi-scaling	HS5. CLOSER sales call script	full	E1		build	no
+E-006	hormozi-scaling	HS6. Upset-customer response script (HERE / Angry Boat)	full	I4		build	no
+E-007	hormozi-scaling	HS7. Testimonial interview script (Epiphany Bridge)	full	D5		build	no
+E-008	hormozi-scaling	HS8. Sales KPI tracker and basic pipeline	full	E2		build	no
+E-009	hormozi-scaling	HS9. RICE priority list	full	I5		plan	no
+E-010	hormozi-scaling	HS10. Niche-down V2 plan (Stage 4)	partial	I6	B1	plan	no
+E-011	hormozi-scaling	HS11. Second premium product plan (Stage 5)	partial	I6	B3	plan	no
+E-012	hormozi-scaling	HS12. Weekly Game Tape review (Five A's)	full	I7	E1	ops	no
+E-013	hormozi-scaling	HS13. Churn reduction plan (Five M's + cohorts)	full	I4	P3	diagnose	no
+E-014	hormozi-scaling	HS14. Second acquisition channel funding plan (Stage 7)	partial	I6	C1	plan	no
+E-015	hormozi-scaling	HS15. Product pruning plan (improve by deletion, Stage 8)	partial	I6		plan	no
+E-016	hormozi-scaling	HS16. Big-bet and Prep-for-Sale checklist (Stage 9)	partial	I6		plan	no
+E-017	gray-founder-os	GF1. Ikigai and profitable niche statement	full	A2		plan	no
+E-018	gray-founder-os	GF2. Founder OS Vision Board	full	I7		plan	no
+E-019	gray-founder-os	GF3. Monthly Personal Board Meeting sheet	full	I7		ops	no
+E-020	gray-founder-os	GF4. Two-page Content Playbook	full	H2	H8	plan	yes
+E-021	gray-founder-os	GF5. Hook-engineered post (curate and remix)	partial	H2	D4	build	no
+E-022	gray-founder-os	GF6. Hiring kit (Role Scorecard, JD, interview bank)	full	I8		build	no
+E-023	gray-founder-os	GF7. Sean Ellis PMF survey and copy mining	full	A6	D6	diagnose	no
+E-024	gray-founder-os	GF8. Revenue Matrix	partial	H8	F4	plan	yes
+E-025	gray-founder-os	GF9. Company Wiki / systems documentation	partial	I7		ops	no
+E-026	gray-founder-os	GF10. Value-first outreach plan and Personal Board of Advisors	full	C4	I7	ops	no
+E-027	butcher-productize	BP1. Uniqueness audit (productization seed)	full	B5		plan	no
+E-028	butcher-productize	BP2. Productized service systems kit (Step 2)	partial	B5		build	no
+E-029	butcher-productize	BP3. Productization roadmap and product-format choice (Step 3)	partial	B6	B5	plan	no
+E-030	butcher-productize	BP4. Niche / brand topic selection	full	A2		plan	no
+E-031	butcher-productize	BP5. Publishing routine and front-door content map	partial	H2		ops	yes
+E-032	butcher-productize	BP6. Deliberate practice plan	full	I7		plan	no
+E-033	gretta-start-scale	GS1. P.S.S.P. idea shortlist	full	A1		plan	yes
+E-034	gretta-start-scale	GS2. UVP by changing one dimension	full	A5	B1	plan	yes
+E-035	gretta-start-scale	GS3. Customer personas (2–3)	full	A3	B1	build	no
+E-036	gretta-start-scale	GS4. Lean Canvas	full	A1		build	no
+E-037	gretta-start-scale	GS5. 20-person validation interviews	full	A3	A1	build	no
+E-038	gretta-start-scale	GS6. Minimum Viable Brand (Brand Pyramid + positioning)	full	I1	B1	build	no
+E-039	gretta-start-scale	GS7. Brand name shortlist	full	I1		build	yes
+E-040	gretta-start-scale	GS8. Brand kit and designer briefs (brand + product render + packaging)	partial	I1		build	yes
+E-041	gretta-start-scale	GS9. Shopify store setup checklist	full	NONE	D2	ops	yes
+E-042	gretta-start-scale	GS10. Supplier shortlist and first message	full	I2		build	yes
+E-043	gretta-start-scale	GS11. Pricing and margin sheet	full	B4	I2	build	yes
+E-044	gretta-start-scale	GS12. First order and inspection plan	full	I2		plan	yes
+E-045	gretta-start-scale	GS13. Trademark plan	partial	I1		plan	yes
+E-046	gretta-start-scale	GS14. Content system (3 C's, territories, weighting)	full	H2		plan	yes
+E-047	gretta-start-scale	GS15. Content funnel map	full	H2	D2	plan	no
+E-048	gretta-start-scale	GS16. Tag-to-win giveaway plan	full	C8		build	no
+E-049	gretta-start-scale	GS17. Post-purchase micro-moments plan	full	I4	D5	plan	yes
+E-050	gretta-start-scale	GS18. Waitlist landing page	full	D1	I3	build	yes
+E-051	gretta-start-scale	GS19. Influencer campaign plan	full	C8		plan	yes
+E-052	gretta-start-scale	GS20. Influencer outreach message	full	C8		build	yes
+E-053	gretta-start-scale	GS21. Influencer asset leverage and ROI report	full	C8	P2	audit	yes
+E-054	gretta-start-scale	GS22. 3-phase launch plan	full	I3		plan	yes
+E-055	gretta-start-scale	GS23. Stock management sheet	partial	I2		ops	no
+E-056	gretta-start-scale	GS24. Store CRO audit	full	D2	P2	audit	yes
+E-057	gretta-start-scale	GS25. Customer support setup and feedback loop	full	I4	A6	ops	yes
+E-058	gretta-start-scale	GS26. SOP and Entrepreneurship Scorecard delegation map	full	I7	I8	ops	no
+E-059	gretta-start-scale	GS27. Co-founder vs GM decision	partial	I8		plan	no
+E-060	gretta-start-scale	GS28. Monthly scarcity drop ritual	partial	I3		ops	yes

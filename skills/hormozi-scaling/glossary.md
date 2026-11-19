@@ -1,0 +1,68 @@
+# Glossary — The $100M Scaling Roadmap
+
+Alphabetical. `(Ch N)` = chapter where the term is defined/used.
+
+- **AAA framework** — on a closing call: Acknowledge → Ask/Answer the next question, looping seamlessly (Ch 5).
+- **Activation** — getting a customer to the behaviors that make them stick; see Five M's (Ch 9).
+- **Advertise (Stage 2)** — headcount 1 + freelancers; role Doer; graduate by letting more people know (Rule of 100) (Ch 5).
+- **Angry Boat** — only one person can be "in the angry boat"; get more upset on the customer's behalf so they de-escalate (Ch 5).
+- **AR / AP** — accounts receivable / payable; tracked granularly from Stage 6 (Ch 9).
+- **ATS (Applicant Tracking System)** — a "CRM for candidates"; installed at Stage 7 (Ch 10).
+- **Bottom line** — a stage's headline problem → headline graduation move (Ch 1).
+- **CAC** — cost to acquire a customer (Ch 8).
+- **Capitalize (Stage 9)** — headcount 250–500; role Chairman; graduate by making the big bet (M&A/R&D) (Ch 12).
+- **Cash cow** — the successful core product you can no longer safely change (Ch 12).
+- **CAT (Cost to Acquire Talent)** — the recruiting analog of CAC; spend up to it on referrals/hiring (Ch 8).
+- **Categorize (Stage 7)** — headcount 50–99; role Executive; graduate by triaging/organizing + funding channel #2 (Ch 10).
+- **CLO** — the first three of CLOSER (Clarify, Label, Overview); used when *setting* a two-step sale (Ch 5).
+- **CLOSER** — sales script: Clarify, Label, Overview, Sell (the vacation not the flight), Explain away concerns, Reinforce (Ch 5).
+- **Cohort segmentation** — grouping customers by cohort/activation point to reduce churn per type (Ch 9).
+- **Constraint** — the one thing most limiting growth at a stage; strategy points resources at it (Ch 1).
+- **Core Four** — the only 4 ways to get attention: warm outreach, cold outreach, post content, run paid ads (Ch 3).
+- **CRO** — conversion-rate optimization (Ch 8).
+- **CSAT** — customer satisfaction score (Ch 8).
+- **Cross-sell** — pruned product pieces sold as add-ons (Ch 11).
+- **Die by indigestion, not starvation** — companies fail by doing too much; focus wins (Ch 1).
+- **Epiphany Bridge** — testimonial script: internal & external struggle → skepticism → why-now → internal & external victory (Ch 5).
+- **ERP** — enterprise software to tie disparate systems together at Stage 9 (Ch 12).
+- **Experience issue vs Result issue** — customers stick more when experience is good & result bad than the reverse (Ch 4).
+- **Fast Cash Fridays** — time-boxed referral promo cycles so referral pushes stay urgent (Ch 10).
+- **Five A's (Game Tape)** — Arrange, Assemble, Assess, Analyze, Act — weekly cross-dept call review (Ch 8).
+- **Five M's of Activation** — Map the journey, Measure, Make a hypothesis, Monitor results, iterate (Ch 9).
+- **Functions (the 8)** — Product, Marketing, Sales, Customer Service, IT, Recruiting, HR, Finance (Ch 1).
+- **Game Tape** — cross-departmental film-study of real calls; run via the Five A's (Ch 8).
+- **Graduation action** — the single move that unlocks the next stage (Ch 1).
+- **HERE framework** — Hear, Empathize, Apologize, Resolve — handling upset customers (Ch 5).
+- **Hidden costs** — non-monetary reasons people don't buy (effort, sacrifice, risk, delay); inverse of the Value Equation (Ch 3, 4).
+- **HRIS (HR Information System)** — centralized, compliant employee data store; Stage 7 (Ch 10).
+- **Improvise (Stage 0)** — headcount 0; role Researcher; graduate by making something free to give away (Ch 3).
+- **IRS 20-point test** — contractor-vs-employee test; ~5 "yes" = employee → W-2 (Ch 5).
+- **Leadership structure** — number of layers of leaders; grows from "just you" to division CEOs (Ch 2).
+- **LTV** — lifetime value of a customer (Ch 8).
+- **LTV:CAC** — ratio driving how much you can spend to acquire; a 2nd product raises LTV (Ch 8).
+- **Magic Question** — "If we worked together for $X to hit [goal], what would you need to see to be excited?" — sets price first (Ch 4).
+- **M&A / R&D** — buy vs build the next rising star (Ch 12).
+- **Monetize (Stage 1)** — headcount 1; role Starter; graduate by making your first sale (Ch 4).
+- **NPS** — net promoter score (Ch 8).
+- **Operations** — the glue (meetings, comms, training) connecting people to functions (Ch 1).
+- **Optimize (Stage 6)** — headcount 20–49; role Leader; graduate by doing everything better, not more (Ch 9).
+- **Peter Principle** — promoting people to their point of incompetence; avoid via deliberate promotion (Ch 8).
+- **Prep for Sale** — Quality of Earnings + banker review + capital-structure audit to raise capital (Ch 12).
+- **Prioritize (Stage 4)** — headcount 5–9; role Manager; graduate by niching down to one best customer (Ch 7).
+- **Productize (Stage 5)** — headcount 10–19; role Director; graduate by adding a 2nd premium product (Ch 8).
+- **Proof > Promise** — belief in your promise scales with your proof; collect 10+ testimonials first (Ch 4).
+- **Proof continuum** — hierarchy of testimonial strength (in-person>virtual, show>tell, lots>one, etc.) (Ch 4).
+- **Quality of Earnings** — financial verification produced during Prep for Sale (Ch 12).
+- **Recruit yourself** — build personal work capacity before hiring anyone (Ch 3).
+- **RICE** — prioritization score: Reach, Impact, Confidence, Expense (Ch 6).
+- **Rising star** — the next growth product, bought (M&A) or built (R&D) (Ch 12).
+- **Rule of 100** — do 100 primary advertising actions every day (Ch 5).
+- **The 4 R's** — Review, Refer, Retain, Resell (customer-service objective) (Ch 3).
+- **Specialize (Stage 8)** — headcount 100–249; role President; graduate via dedicated people/teams per task (Ch 11).
+- **Stabilize (Stage 3)** — headcount 1–4; role Trainer; graduate by getting your first hires (Ch 6).
+- **Strategic workforce planning** — forecasting the people side of growth at scale (Ch 12).
+- **Three-Pillar Pitch** — boil success to 3 things, one-line claim + analogy each (the "S" in CLOSER) (Ch 5).
+- **Three Elements of Scaling** — Functions, People, Operations (Ch 1).
+- **V1 / V2** — first sellable product / niched-down specialized product (Ch 4, 7).
+- **Value Equation** — (Dream Outcome × Perceived Likelihood) ÷ (Time Delay × Effort & Sacrifice) (Ch 4).
+- **Valuable over scalable** — make it valuable first; worry about scale later (Ch 5).

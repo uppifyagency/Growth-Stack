@@ -1,0 +1,10 @@
+{
+  "name": "growth",
+  "displayName": "Growth",
+  "version": "0.3.0",
+  "description": "Un comando, /growth, che smista ogni domanda di marketing e business verso le knowledge base giuste: offerta, lead, positioning, copy, landing, email, ads, SEO, contenuti, vendita.",
+  "author": {
+    "name": "Vlad Vrinceanu"
+  },
+  "keywords": ["growth", "marketing", "copywriting", "seo", "offers", "leads", "positioning"]
+}
